@@ -2,7 +2,7 @@
 
 
 ### About Me
-> Name: Ash/Apollo
-> Pronouns: He/They
-> Founder of VentraNode
-> Developer of Journee
+> Name: Ash/Apollo\n
+> Pronouns: He/They\n
+> Founder of VentraNode\n
+> Developer of Journee\n
