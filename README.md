@@ -1,31 +1,11 @@
-
-<div>
-  <div width="45%">
-      <h1 align=center > 👋 Hello Eveyone</h1>
-  <img width=100% align=center src="https://images-ext-2.discordapp.net/external/AY4vAO36wCqjejhXtSFKei5UElrLHTkR-W3zTZtL6ds/https/github.com/TheApolloRamen/TheApolloRamen/raw/main/TheApolloRamen.png?width=1025&height=256">
-    
-  </div>
-</div>
-  
+# 👋 'ello folks!
+My name is Apollo (or Hayden), and I am a python developer.
 
 
+## Current Project
+I am currently working on Eddie, a bot to teach you about mental health.
+https://teensafe.cc/go/eddie
 
-
-
-
-
-
-
-## Languages I have used
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-
-## Some of the tech I have worked with
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-
-
-
-
-- Apollo <3
+Eddie is listed on Discord Labs and Statcord.
+https://beta.statcord.com/bot/959184937536331906
+https://dbots.cc/959184937536331906
